@@ -15,6 +15,18 @@ Collection of samples related to using IBM watsonx.ai
 </ul>
 </td>
 </tr>
+<!-- sample 02 -->
+<tr>
+<td valign="top">
+<p><b>sample-02_prompt-multiple-models</b></p>
+</td>
+<td valign="top">
+<p>Prompt multiple models and then compare output.  Seeing this comparison makes it easier to choose models for you solutions.</p>
+<ul>
+<li><a href="sample-02_prompt-multiple-models/notebooks/sample-02_prompt-multiple-models.ipynb">Notebook</a></li>
+</ul>
+</td>
+</tr>
 </table>
 
 
